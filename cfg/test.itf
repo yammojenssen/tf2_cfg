@@ -1,0 +1,123 @@
+"TestItems"
+{
+	"item1"
+	{
+		"item_type"		"1"
+		"test_existing_item"		"1"
+		"attach_to_hands"		"0"
+		"model_player_per_class"
+		{
+		}
+		"visuals"
+		{
+			"player_bodygroups"
+			{
+				"hat"		"0"
+				"headphones"		"1"
+				"medal"		"1"
+				"grenades"		"1"
+				"bullets"		"1"
+				"arrows"		"1"
+				"rightarm"		"1"
+				"shoes_socks"		"1"
+			}
+		}
+		"paintcan_index"		"5040"
+		"unusual_index"		"15"
+		"existing_itemdef"		"30182"
+		"item_replace"		"30182"
+		"item_def"		"40001"
+	}
+	"item2"
+	{
+		"item_type"		"2"
+		"test_existing_item"		"1"
+		"attach_to_hands"		"0"
+		"model_player_per_class"
+		{
+			"spy"		"models/player/items/spy/spy_ttg_max.mdl"
+		}
+		"visuals"
+		{
+			"player_bodygroups"
+			{
+				"hat"		"0"
+				"headphones"		"1"
+				"medal"		"1"
+				"grenades"		"1"
+				"bullets"		"1"
+				"arrows"		"1"
+				"rightarm"		"1"
+				"shoes_socks"		"1"
+			}
+		}
+		"paintcan_index"		"5040"
+		"unusual_index"		"0"
+		"existing_itemdef"		"162"
+		"item_replace"		"162"
+		"item_def"		"40002"
+	}
+	"Item0"
+	{
+		"item_type"		"0"
+		"test_existing_item"		"1"
+		"attach_to_hands"		"1"
+		"model_player_per_class"
+		{
+		}
+		"visuals"
+		{
+			"player_bodygroups"
+			{
+				"hat"		"1"
+				"headphones"		"1"
+				"medal"		"1"
+				"grenades"		"1"
+				"bullets"		"1"
+				"arrows"		"1"
+				"rightarm"		"1"
+				"shoes_socks"		"1"
+			}
+		}
+		"paintcan_index"		"0"
+		"unusual_index"		"0"
+		"existing_itemdef"		"1006"
+		"item_replace"		"1006"
+		"item_def"		"40000"
+	}
+	"class_usage"		"256"
+	"auto_add_bots"		"0"
+	"bots_on_blue_team"		"1"
+	"bot_force_fire"		"0"
+	"bot_view_scan"		"1"
+	"bot_turntable"		"1"
+	"bot_anim"		"0"
+	"bot_animspeed"		"100"
+	"item3"
+	{
+		"item_type"		"3"
+		"test_existing_item"		"1"
+		"attach_to_hands"		"0"
+		"model_player_per_class"
+		{
+		}
+		"visuals"
+		{
+			"player_bodygroups"
+			{
+				"hat"		"1"
+				"headphones"		"1"
+				"medal"		"1"
+				"grenades"		"1"
+				"bullets"		"1"
+				"arrows"		"1"
+				"rightarm"		"1"
+				"shoes_socks"		"1"
+			}
+		}
+		"paintcan_index"		"5040"
+		"unusual_index"		"0"
+		"existing_itemdef"		"977"
+		"item_replace"		"977"
+	}
+}
