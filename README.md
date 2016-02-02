@@ -1,5 +1,3 @@
-tf2 configuration
-
 launch options:
 -dxlevel 81 -sw -noborder -w -h -console -novid -useforcedmparms -noforcemaccel -noforcemspd
 
